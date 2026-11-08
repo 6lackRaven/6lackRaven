@@ -1,16 +1,33 @@
-## Hi there 👋
 
-<!--
-**6lackRaven/6lackRaven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Harley Stanislas
 
-Here are some ideas to get you started:
+Raven · Software Developer · Founder of Raven Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build software, explore cybersecurity, and turn ideas into practical tools.
+
+* Focus: Python, software development, cybersecurity, and product building
+* Building: GhostEyes — an async-first reconnaissance toolkit for authorized network and web security research
+* Interests: Automation, web technologies, and technology entrepreneurship
+
+Featured Project
+
+GhostEyes
+
+A Python-based reconnaissance toolkit for authorized security testing, with network and web reconnaissance capabilities and structured reporting.
+
+First released: July 2025.
+
+Technologies
+
+Python · JavaScript · C · Django · Node.js · Linux
+
+Find Me Online
+
+* LinkedIn
+* YouTube — Raven Security
+
+⸻
+
+Raven Security · Think. Build. Secure. Innovate.
+
+Security research and testing should always be conducted with proper authorization.
