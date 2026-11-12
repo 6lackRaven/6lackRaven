@@ -23,8 +23,8 @@ Python · JavaScript · C · Django · Node.js · Linux
 
 Find Me Online
 
-* LinkedIn
-* YouTube — Raven Security
+* LinkedIn https://www.linkedin.com/in/harley-stanislas-01a2b844a?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+* YouTube — @ravensecurity
 
 ⸻
 
